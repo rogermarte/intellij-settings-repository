@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="1_add_en_video_in_vaazar" type="Native" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
+      <mapping ext="1__add_en_video_in_vaazar" type="PLAIN_TEXT" />
+      <mapping ext="release" type="PLAIN_TEXT" />
+      <mapping ext="hotfix" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
